@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaMacchina98
-- 👀 I’m interested in file .bat and in informatic
-- 🌱 I’m currently learning the basics of informatic
+- 👀 I’m interested in file .bat and in informatic and java
+- 🌱 I’m currently learning how to create mods with mcreator
 - 📫 How to reach me? On telegram or discord: (tg: @lamacchina98) or (ds: lamacchina98)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my friend call me pingu
